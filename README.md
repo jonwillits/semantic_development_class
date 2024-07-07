@@ -2,9 +2,9 @@ Syllabus for PSYC 593: Seminar in Semantic Development
 
 # 1.	Course Info
 
-**Instructor**: Jon Willits
-**Email**: jwillits@illinois.edu
-**Office** Hours: By appointment
+**Instructor**: Jon Willits<br>
+**Email**: jwillits@illinois.edu<br>
+**Office** Hours: By appointment<br>
 
 # 2.	Course Description and Learning Objectives
 In this seminar we will be reading and discussing papers about semantic development in children. These studies will cover theoretical, methodological, computational, and empirical phenomena. We read papers about a range of topics, including word learning, concept development, category learning, reasoning and inference, and sentence comprehension and production.
@@ -21,10 +21,10 @@ Each question and answer (4 per week * 14 weeks) are worth 5 points each. Your l
 For students enrolled for 4 credits, the final paper is worth an additional 140 points (35% of the grade), resulting in 400 total points.
 
 ### Grading Scale
-A   90-100
-B   80- <90
-C   70- <80
-D   60- <70
+A   90-100<br>
+B   80- <90<br>
+C   70- <80<br>
+D   60- <70<br>
 F   Below 60
 
 # 4.	Academic Integrity Policy
